@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ahla Donia
+
+This log tracks the cryptographic history and versioning for the song **Ahla Donia** (ahla-donia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:08:18.754720 | `v1` | `cef123f54664728438debbcfc5c56de2ffa6e9a135d17e67369b4930cba36f42` | `54a922439264ecff1cacee2bf59abbfc205f00045f2cfae1278f7af8e89fc62f` | `2026-05-09_ahla-donia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
